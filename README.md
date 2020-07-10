@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**kapeed07/kapeed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning DS/Algo
+- 🤔 I’m looking for help with Design System
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

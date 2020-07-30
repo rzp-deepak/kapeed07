@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning DS/Algo
 - 🤔 I’m looking for help with Design System
+<a href="https://linkedin.com/in/kapeed07"><img width="50px" height="50px" align="right" src="https://image.flaticon.com/icons/svg/1384/1384046.svg" alt="linkedin" /></a>
+<a href="https://twitter.com/kapeed07"><img width="50px" height="50px" align="right" src="https://image.flaticon.com/icons/svg/1384/1384049.svg" alt="twitter" /></a>
+<a href="https://instagram.com/kapeed07_"><img width="50px" height="50px" align="right" src="https://image.flaticon.com/icons/svg/1384/1384047.svg" alt="instagram" /></a>
+
+
 
 <!--
 

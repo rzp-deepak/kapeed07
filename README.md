@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Deepak Bhardwaj 👨🏻‍💻</h1>
-<h3 align="center">Engineering <a href="https://grappus.com" target="blank">Grappus</a></h3>
+<h1 align="left">Hey, I'm Deepak Bhardwaj 👨🏻‍💻 • kapeed07</h1>
+<h3 align="left">Engineering at <a href="https://grappus.com" target="blank">Grappus</a></h3>
 
 <p align="left"> <a href="https://twitter.com/kapeed07" target="blank"><img src="https://img.shields.io/twitter/follow/kapeed07?logo=twitter&style=for-the-badge" alt="kapeed07" /></a> </p>
 

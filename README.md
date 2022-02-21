@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kapeed07" target="blank"><img src="https://img.shields.io/twitter/follow/kapeed07?logo=twitter&style=for-the-badge" alt="kapeed07" /></a> </p>
 
-- 🔭 I’m currently working on [Unberry](https://unberry.com/)
+- 🔭 I’m currently working on Risk and Transaction
 
 - 📫 How to reach me **kapeed07@gmail.com**
 
